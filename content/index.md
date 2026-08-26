@@ -1,21 +1,30 @@
 ---
 title: はじめに
-changelog:
-  - date: "2026-08-25"
-    text: "いいねボタンと更新履歴を追加"
 ---
 
 RyoCaの個人ページです。
-日記などをまとめる置き場です。
+各種リンク含めたポータルサイトとして改良予定です。
 
-2026/08/24　Start
+
+# リンク
+
+### X: [ryoca_knot][1]
+
+### Discord: ryoca.knot
+
+Bandcamp(Fan): [Profile][2]
+
+Twitch: [RyoCa Twitch Channel][3]
+
+MixCloud: [DJ Archive][4]
+
+しずかなインターネット(移行予定): [Link][5]
 
 
 # 主なコンテンツ
 
-- [[日記]]
-- [[思考]]
-- [[メモ]]
+- [[未定]]
+- [[未定]]
 - [[未定]]
 
 
@@ -51,8 +60,6 @@ RyoCaの個人ページです。
 
 アバター：AOI / Marycia / Lapwing / Sou / Shiratsume / Pebbles / Ramune / Echo Vison NX / Rabi / Retinia
 
-Main: Marycia
-
 ステータス
 🔵：イベント
 🟢：ふつう
@@ -66,9 +73,17 @@ Main: Marycia
 
 お誘いしてくれてる皆さんありがとう
 
-
+随時更新します、お待ちください
 
 
 # 音楽
 
 
+
+
+
+[1]:https://x.com/ryoca_knot
+[2]:https://t.co/pg4EM8Jkzw
+[3]:https://www.twitch.tv/ryoca_knot
+[4]:https://www.mixcloud.com/hanazono/
+[5]:https://sizu.me/ryoca
