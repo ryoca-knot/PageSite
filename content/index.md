@@ -8,9 +8,15 @@ RyoCaの個人ページです。
 
 # リンク
 
-### X: [ryoca_knot][1]
+連絡は　X > Discord > mail　の順にお願いします
 
-### Discord: ryoca.knot
+**X: [ryoca_knot][1]**
+
+**Discord: ryoca.knot**
+
+**mail: ryoca.knot❁gmail.com**
+
+--- 
 
 Bandcamp(Fan): [Profile][2]
 
