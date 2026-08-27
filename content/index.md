@@ -47,24 +47,28 @@ MixCloud: [DJ Archive][4]
 年齢：20代
 
 趣味：
+- DJ
+- ゲーム（一人用が多い）
+- 
 
 特技：大きい声が出る
 
 
-好きなもの
-- おさけ（日本酒、ワインが多い）
-- たべもの
+好きなもの：
+- コーヒー
+- 日本酒
+- 寿司
+- 
 
 
-嫌いなもの
-
+嫌いなもの：
+- 酸味の強いもの（得意じゃないぐらい）
+- 
 
 # VRChat
 
-2024.09 Start
 
-
-アバター：AOI / Marycia / Lapwing / Sou / Shiratsume / Pebbles / Ramune / Echo Vison NX / Rabi / Retinia
+アバター: AOI / Marycia / Lapwing / Sou / Shiratsume / Pebbles / Ramune / Echo Vison NX / Rabi / Retinia
 
 ステータス
 🔵：イベント
@@ -73,16 +77,19 @@ MixCloud: [DJ Archive][4]
 🔴：静かに
 
 
+音楽イベントにDJとして出演することがあります
+VRChatでTrifourliumというイベントを主催しています。
 
+Crew (DJ) : Drip Garage
+
+Orgnizer : Trifourlium
 
 # 出演履歴
 
-お誘いしてくれてる皆さんありがとう
+お誘いしてくれてる皆さんありがとうございます。
 
-随時更新します、お待ちください
+随時更新します、お待ちください。
 
-
-# 音楽
 
 
 
